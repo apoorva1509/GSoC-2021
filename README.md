@@ -43,6 +43,22 @@ This project focuses on creating a functional pipeline which will consist of ope
 | 5 |  :heavy_check_mark: | Designing single article view | Remove header from latex convertor and design single article web view page |  <a href="https://gitlab.com/cdli/framework/-/issues/470">#470</a> |
 | 6 | :heavy_check_mark: |Displaying reviewers endorsements | Develop review page to display reviewers endorsements on article web page | <a href="https://gitlab.com/cdli/framework/-/issues/620">#620</a>, <a href="https://gitlab.com/cdli/framework/-/issues/659">#659</a> |
 
+## Community Bonding
+
+Community bonding was the first the phase of Google Summer of Code where we learnt more about the organization and co-mates.
+We had a conference call for the community bonding where I got to know more about other students who are participating for GSoC'2021 and we made plans to sync the project without breaking things.
+
+I did work on various issues related to my dashboard and CDLI framework.
+<ul>
+<li><a href="https://gitlab.com/cdli/framework/-/issues/441">#441</a> - Create virtual directories for standalone features</li>
+<li><a href="https://gitlab.com/cdli/framework/-/issues/349">#349</a> - Changed alignment of delete buttons to right</li>
+<li><a href="https://gitlab.com/cdli/framework/-/issues/291">#291</a> - Improve article numbering</li>
+<li><a href="https://gitlab.com/cdli/framework/-/issues/575">#575</a> - Changes to the article table</li>
+</ul>
+
+We had our first meeting with mentors in this period where we discussed and made final document of milestones, my objectives and deliverables and a precise timeline. I created a workflow for ojs integration into our framework with the help of Somil https://miro.com/app/board/o9J_lBQQskE=/
+and did research on ojs different features which we can implement in our framework.
+
 ## Milestone 1 
 
 In particular the work done in milestone 1 was
