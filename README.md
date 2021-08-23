@@ -17,6 +17,7 @@ This project focuses on creating a functional pipeline which will consist of ope
 - [Project Proposal](https://docs.google.com/document/d/1Bq1Be4UYaF08vBwasERpx2kiWuiVPWdkSEHBM-owUx4/edit#heading=h.rti1bbjk8idf)
 - [Project Weekly Blogs](https://cdli-gh.github.io/blog/gsoc21/journalsOpenReviewWorkflowAndIntegration/index)
 - [Contributions to CDLI](https://gitlab.com/cdli/framework/-/merge_requests?scope=all&utf8=%E2%9C%93&state=all&author_username=apoorva1509)
+- [Project Google Drive](https://drive.google.com/drive/u/2/folders/15kmsiilnMfBEomd03VwUyAmDdcU-lmBV)
 
 ## Mentor: 
 <a href='mailto:nisheal.work@gmail.com'>Nisheal John</a>
