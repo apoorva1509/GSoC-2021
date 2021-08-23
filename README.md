@@ -86,7 +86,7 @@ Along with this we even discussed the final workflow to be followed to integrate
 
 ### Summary
 
-Changed settings of ojs editorial workflow according to CDLI and Created a test submission in ojs with complete open review process performed all the roles of an admin, editor, author and reviewers. 
+Changed settings of ojs editorial workflow according to CDLI and created a test submission in ojs with complete open review process performed all the roles of an admin, editor, author and reviewers. 
 Implemented single article web view design and removed header from latex convertor and improved css for content of the article.
 
 ![Single article web view](assets/article-view.jpeg)
