@@ -67,16 +67,16 @@ I created a direct link on CDLI journals index to make submission to ojs.
 
 ### Documentation
 
-Document to run ojs container locally or to deploy it manually can be find [here](https://github.com/cdli-gh/ojs/blob/main/README.md)
+Document to run ojs container locally or to deploy it manually can be found [here](https://github.com/cdli-gh/ojs/blob/main/README.md)
 
 ## Milestone 2
 
 The work done in Milestone 2 was
 
-- Creating a workflow for open submission and open review of articles in ojs. 
-- Creating a test submission in ojs with complete open review process
-- Implementing single article web view design 
-- Remove header from latex convertor
+- Created a workflow for open submission and open review of articles in ojs. 
+- Created a test submission in ojs with complete open review process
+- Implemented single article web view design 
+- Removed header from latex convertor
 
 Along with this we even discussed the final workflow to be followed to integrate ojs submissions in CDLI journals dashboard and publish them.
 
