@@ -89,7 +89,7 @@ Along with this we even discussed the final workflow to be followed to integrate
 Changed settings of ojs editorial workflow according to CDLI and Created a test submission in ojs with complete open review process performed all the roles of an admin, editor, author and reviewers. 
 Implemented single article web view design and removed header from latex convertor and improved css for content of the article.
 
-
+![Single article web view](assets/article-view.jpeg)
 
 ## Milestone 3
 
@@ -108,6 +108,7 @@ The work done in this milestone is:
 
 ### Summary
 
+In the last milestone of my GSoC, I created an hourly command script to move reviewed ojs to CDLI journals dashbaord and prepopulate the articles table in the CDLI database. Next I implemented the review page in single article web view to display the reviewers endorsements. Thus once the articles gets published by admins on single article web view, users can read the article with its reviewers endorsements.
 
 ## To Do (Post GSoC)
 
@@ -116,8 +117,6 @@ The work done in this milestone is:
 - Filter draft and published articles
 - ORCHID Integration
 - Create single article web view navbar for no-js users
-
-## Summary
 
 ## Learning and Success
 
@@ -131,3 +130,7 @@ Working on the project has been a great learning experience. My mentor has been 
 - Learnt time management
 
 ## Acknowledgements
+
+- I would like to thank my mentor Nisheal John for helping and guiding me throughout the GSoC journey and teaching me so many new things !
+- Thanks to other mentees and mentors for collaboration.
+- I am thankful to Google Summer Of Code for providing me with an opportunity to work with CDLI.
