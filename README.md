@@ -3,8 +3,7 @@
 <h2 align="center"><a href="https://summerofcode.withgoogle.com/organizations/4724093699489792/">Cuneiform Digital Library Initiative (CDLI)</a></h2>
 <h2 align="center"> Final Report of my GSoC'21 Project </h2>
 
-<br/>
-GSoC CDLI Logo
+![GSoC with CDLI](assets/logo.png)
 
 <h1> Journal Open Review Workflow And Integration </h1>
 
